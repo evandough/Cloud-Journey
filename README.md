@@ -14,7 +14,7 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Evan's Cloud Journey
 
 [✍️ Introduce yourself]
 
@@ -23,7 +23,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 [✍️ Tell us where you want to be at the end of the challenge]
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- https://www.linkedin.com/in/evandougherty/
 
 ## Stepping out the door
 
