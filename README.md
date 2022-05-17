@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Evan's Cloud Journey
 
-- Linkedin: https://www.linkedin.com/in/evandougherty/
+- LinkedIn: https://www.linkedin.com/in/evandougherty/
 
 ## Stepping out the door
 
