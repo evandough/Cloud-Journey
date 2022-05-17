@@ -16,12 +16,6 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Evan's Cloud Journey
 
-[✍️ Introduce yourself]
-
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
 - Linkedin: https://www.linkedin.com/in/evandougherty/
 
 ## Stepping out the door
