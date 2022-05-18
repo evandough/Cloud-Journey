@@ -17,4 +17,4 @@ Gotta have an Azure subscription to set up a budget, so go ahead and get yoursel
 
 ## ☁️ Cloud Outcome
 
--Budget has officially been setup. Really hope that I don't exceed my $1/month budget :)
+- Budget has officially been setup. Really hope that I don't exceed my $1/month budget :)
