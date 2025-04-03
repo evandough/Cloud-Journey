@@ -1,11 +1,8 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Static Website On Blob Storage
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+[Link To Tutorial.](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host)
 
 ## Prerequisite
 
