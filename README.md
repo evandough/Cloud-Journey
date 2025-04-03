@@ -36,7 +36,7 @@
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
-## Crossing the bridge
+
 
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
@@ -49,7 +49,7 @@
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
-## Into the bushy, thorny forest
+
 
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
@@ -62,7 +62,7 @@
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
-## Trekking the dunes
+
 
 - [ ] ☁️ 41 > [](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [](Journey/042/Readme.md)
@@ -75,7 +75,7 @@
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
-## Winding through the canyons
+
 
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
@@ -88,7 +88,7 @@
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
-## Stumbling through the caves
+
 
 - [ ] ☁️ 61 > [](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [](Journey/062/Readme.md)
@@ -101,7 +101,7 @@
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
-## Resting at the Lagoon
+
 
 - [ ] ☁️ 71 > [](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [](Journey/072/Readme.md)
@@ -114,7 +114,7 @@
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
-## Up into the mountains
+
 
 - [ ] ☁️ 81 > [](Journey/081/Readme.md)
 - [ ] ☁️ 82 > [](Journey/082/Readme.md)
@@ -127,7 +127,7 @@
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
-## Into the sky to touch the cloud!
+
 
 - [ ] ☁️ 91 > [](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
