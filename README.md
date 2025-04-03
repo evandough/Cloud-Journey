@@ -10,10 +10,6 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## My Cloud Journey
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
@@ -27,7 +23,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## Walking down the road
+
 
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
