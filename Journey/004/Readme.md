@@ -1,7 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Service Connection Creation - Azure / Azure DevOps
 
 ## Introduction
 
