@@ -16,11 +16,6 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Evan's Cloud Journey
 
-- Twitter: https://twitter.com/evandough3
-- LinkedIn: https://www.linkedin.com/in/evandougherty/
-
-## Stepping out the door
-
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [AKS](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
