@@ -1,15 +1,12 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Microsoft Entra Multifactor Authentication (MFA)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Security is important and it's crucial to add an extra layer of security. MFA allows an additional form of identification. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Here is a [LINK](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-mfa-howitworks) for more information and how to setup in your own Azure account.  
 
 ## Use Case
 
