@@ -15,7 +15,7 @@ Here is the tutorial I used - [Link Here](https://learn.microsoft.com/en-us/azur
 
 I was able to successfully run the application in Azure. At the time of working on this project it was between Thanksgiving and Christmas, so I changed the voting app to be festive. 
 
-## Social Proof
+<br>
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+Here is a Twitter post to show the end results:
 [link](https://x.com/evandough3/status/1589691535427502080)
