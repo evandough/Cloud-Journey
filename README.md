@@ -12,7 +12,7 @@
 
 ## My Cloud Journey
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [My First Day - Creating A Budget](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Azure Container Registry - ACR](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Microsoft Entra Multifactor Authentication (MFA)](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
