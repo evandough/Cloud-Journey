@@ -1,49 +1,26 @@
-# Static Website On Blob Storage
+# Microsoft Entra Multifactor Authentication (MFA)
 
 ## Introduction
 
-[Link To Tutorial.](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host)
+Security is more important as it's ever been and it's crucial to add an extra layer of security. MFA allows an additional form of identification. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Here is a [LINK](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-mfa-howitworks) for more information on MFA and how to setup MFA in your own Azure account.  
 
-## Use Case
+## Implementation of MFA
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+To enhance account security, I enabled Multi-Factor Authentication (MFA) on my **Azure** account. I downloaded the Microsoft Authenticator app onto my cellular device, linking it via QR code. After verifying successful authentication, I tested login scenarios to ensure proper enforcement. This setup adds an extra layer of protection against unauthorized access, especially for privileged operations and portal access.
+<br>
+I also utilized MFA on my **AWS** account. There's something about a bit of extra security that helps one sleep at night. 
+<br>
+There was a client who enforced MFA on their **WordPress** site - this was brilliant because if you didn't setup MFA once you logged in, it would cut off your access after a certain period of time. We'll call this client **Mildred**, and believe me, you don't want to let **Mildred** down...setup MFA, create a work ticket if needed, just get it done. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Going back to helping one sleep at night, the next steps would be to create policies within your cloud provider. If you've ever read an IT Reddit post or seen an IT meme, you've heard stories of large bills you accidentally accrued. 
+<br>
+Next step policy ideas would be: 
+- deny massive-cost VM SKUs
+- require tagging
+- restrict resource creation to certain regions
