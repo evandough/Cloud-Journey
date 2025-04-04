@@ -14,7 +14,7 @@
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Azure Container Registry - ACR](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [Microsoft Entra Multifactor Authentication (MFA)](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
