@@ -2,48 +2,20 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Do you remember the [Service Connection](Journey/004/Readme.md) that was created? It's basically the bridge that lets **Azure DevOps** securely talk to external systems - like **Azure**. I wanted a way to securely store secrets when automating VM creation, so I created a **Key Vault** in **Azure**. 
 
-## Prerequisite
+### Step 1 — Create A Resource Group To Store Key Vault
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I created a resource group that would be specific to environments I wanted to automate based on Microsoft's [naming convention documentation](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
-## Use Case
+### Step 2 — Create Key Vault
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+I created a Key Vault, [here is an overview of Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/overview), and the permission model I used was **Azure role-based access control (RBAC)**
 
-## Cloud Research
+### Step 3 - Assign Roles
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+You'll assign Azure roles to users, groups, or apps. 
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Verified I was able to create and view secrets in the Key Vault. Tested Azure DevOps pipeline to ensure proper access. 
