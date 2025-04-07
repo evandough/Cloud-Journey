@@ -2,48 +2,19 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+This project was created to automate resource creation - connecting **Azure** with **Azure DevOps**. I wanted to create & test Infrastructure as Code (IaC) using ARM Templates. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+You will need an **Azure** account and an **Azure DevOps** account. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- [THIS VIDEO](https://www.youtube.com/watch?v=Tpa7r_iXgM8) helped me create the Service Connection.
+- Service Connection was created with appropriate permissions to deploy to Azure. 
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+✍️ The hands-on experience is great. When I first set up the Service Connection it was fun to figure out **WHO ARE YOU** and **WHAT CAN YOU DO**, when it comes to identity and permissions. 
+<br></br>
+I was able to deploy **Virtual Machines (VMs)** successfully, but that write up will come at a later time 😃
