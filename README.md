@@ -17,7 +17,7 @@
 - [ ] ☁️ 3 > [Microsoft Entra Multifactor Authentication (MFA)](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Service Connection](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Azure Key Vault With Role Based Access Control (RBAC)](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [AWS Multi-factor authentication in IAM (MFA)](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
