@@ -1,49 +1,19 @@
-# Microsoft Entra Multifactor Authentication (MFA)
+# AWS Multi-factor authentication in IAM
 
 ## Introduction
 
-Security is important and it's crucial to add an extra layer of security. MFA allows an additional form of identification. 
+I've been wanting to create a **WordPress** website hosted in **AWS Lightsail** for some time now and decided to take the plunge. First things first - I need to setup an **AWS** account!
+<br></br>
+I though back to when I documented [day 3 - Microsoft Entra ID MFA](Journey/003/Readme.md) and wanted to ensure I slept well at night knowing there was an extra layer of security, so I implemented MFA on my **AWS** account as well. 
 
-## Prerequisite
+## Implementation
 
-Here is a [LINK](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-mfa-howitworks) for more information and how to setup in your own Azure account.  
+Once the **AWS** account was setup I followed [THIS AWS DOCUMENTATION](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html) to implement MFA.
 
-## Use Case
+## Testing to Verify
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Once MFA was implemented, to test I logged out and logged back in and **VOILA!**. I was prompted to use MFA to log in!
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+This is where the fun begins - I can now create a **Lightsail** instance, setup networking, manage DNS, create snapshots, test backups by creating new instances based on snapshot, etc., etc. This goes beyond **Lightsail**, because now we've opened the door to two cloud providers to build, test, and deploy a variety of resources. 
