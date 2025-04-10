@@ -12,7 +12,7 @@ Once the **AWS** account was setup I followed [THIS AWS DOCUMENTATION](https://d
 
 ## Testing to Verify
 
-Once MFA was implemented, to test I logged out and logged back in and **VOILA!**. I was prompted to use MFA to log in!
+Once MFA was implemented, to test I logged out and logged back in and **VOILA!** I was prompted to use MFA to log in!
 
 ## Next Steps
 
