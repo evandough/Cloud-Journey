@@ -4,7 +4,7 @@
 
 I've been wanting to create a **WordPress** website hosted in **AWS Lightsail** for some time now and decided to take the plunge. First things first - I need to setup an **AWS** account!
 <br></br>
-I though back to when I documented [day 3 - Microsoft Entra ID MFA](evandough/Cloud-Journey/blob/main/Journey/003/Readme.md) and wanted to ensure I slept well at night knowing there was an extra layer of security, so I implemented MFA on my **AWS** account as well. 
+I though back to when I documented [day 3 - Microsoft Entra ID MFA](https://github.com/evandough/Cloud-Journey/blob/main/Journey/003/Readme.md) and wanted to ensure I slept well at night knowing there was an extra layer of security, so I implemented MFA on my **AWS** account as well. 
 
 ## Implementation
 
