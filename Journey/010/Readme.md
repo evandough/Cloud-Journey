@@ -1,5 +1,5 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+links: 
+- https://learn.microsoft.com/en-us/azure/devops/pipelines/library/variable-groups?view=azure-devops&tabs=azure-pipelines-ui%2Cyaml#create-a-variable-group
 
 # New post title here
 
