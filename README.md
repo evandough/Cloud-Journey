@@ -19,13 +19,13 @@
 - [x] ☁️ 5 > [Azure Key Vault With Role Based Access Control (RBAC)](Journey/005/Readme.md)
 - [x] ☁️ 6 > [AWS Multi-factor authentication in IAM (MFA)](Journey/006/Readme.md)
 - [x] ☁️ 7 > [Creating An AWS Budget & Alerts](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 8 > [AWS LightSail](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [Azure Key Vault Creation](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Azure DevOps - Variable Groups](Journey/010/Readme.md)
 
 
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [ ] ☁️ 11 > [Azure Policies](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
