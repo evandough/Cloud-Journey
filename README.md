@@ -20,7 +20,7 @@
 - [x] ☁️ 6 > [AWS Multi-factor authentication in IAM (MFA)](Journey/006/Readme.md)
 - [x] ☁️ 7 > [Creating An AWS Budget & Alerts](Journey/007/Readme.md)
 - [x] ☁️ 8 > [Azure DevOps Boards](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [AWS LightSail](Journey/009/Readme.md)
+- [x] ☁️ 9 > [AWS LightSail](Journey/009/Readme.md)
 - [ ] ☁️ 10 > <!-- [Azure Key Vault Creation](Journey/010/Readme.md) -->
 
 
