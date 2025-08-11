@@ -21,11 +21,11 @@
 - [x] ☁️ 7 > [Creating An AWS Budget & Alerts](Journey/007/Readme.md)
 - [x] ☁️ 8 > [Azure DevOps Boards](Journey/008/Readme.md)
 - [x] ☁️ 9 > [AWS LightSail](Journey/009/Readme.md)
-- [ ] ☁️ 10 > <!-- [Azure Key Vault Creation](Journey/010/Readme.md) -->
+- [x] ☁️ 10 > [Azure Key Vault Creation](Journey/010/Readme.md)
 
 
 
-- [ ] ☁️ 11 > <!-- [Azure DevOps - Variable Groups](Journey/011/Readme.md)-->
+- [x] ☁️ 11 > [Azure DevOps - Variable Groups](Journey/011/Readme.md)
 - [ ] ☁️ 12 > <!--[Azure Policies / Azure Landing Zone](Journey/012/Readme.md)-->
 - [ ] ☁️ 13 > <!--[ARM Templates](Journey/013/Readme.md)-->
 - [ ] ☁️ 14 > <!--[Terraform Beginnings](Journey/014/Readme.md)-->
